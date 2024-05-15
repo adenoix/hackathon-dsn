@@ -44,7 +44,8 @@ Plusieurs cibles :
 
 - [Dico Metriques du Dataset_20240515081257.xlsx](https://github.com/adenoix/hackathon-dsn/blob/main/Dico%20Metriques%20du%20Dataset_20240515081257.xlsx) 
 - [Flux de données](https://github.com/adenoix/hackathon-dsn/blob/main/Flux%20Data_20240515081247.pptx) 
-
+- [Cas d'usage et proposition de valeur](https://miro.com/app/board/uXjVKIX2HxM=/?share_link_id=102171823594) 
+  
 ### Retours sur la qualité des données exploitées
 
 * *Quelles sont les difficultés que vous avez rencontrées dans l’usage des données ?*
